@@ -1,0 +1,6 @@
+C:\Users\Denis\Desktop\saper\saper\bin\Debug\saper.exe.config
+C:\Users\Denis\Desktop\saper\saper\bin\Debug\saper.exe
+C:\Users\Denis\Desktop\saper\saper\bin\Debug\saper.pdb
+C:\Users\Denis\Desktop\saper\saper\obj\Debug\saper.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\saper\saper\obj\Debug\saper.exe
+C:\Users\Denis\Desktop\saper\saper\obj\Debug\saper.pdb
